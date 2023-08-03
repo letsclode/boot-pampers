@@ -20,6 +20,12 @@ const Layout = () => {
           <li>
             <Link to="/signup">SignUp</Link>
           </li>
+          <li>
+            <Link to="/userlist">UserList</Link>
+          </li>
+          <li>
+            <Link to="/postsList">Post List</Link>
+          </li>
         </ul>
       </nav>
 

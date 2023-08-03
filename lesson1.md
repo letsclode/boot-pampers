@@ -36,6 +36,7 @@ Demonstrate how this custom hook can be used in different components to fetch da
 Discuss best practices for creating custom hooks.
 Emphasize the importance of making hooks reusable, composable, and easy to understand.
 Show common patterns like using useEffect, useRef, and useCallback within custom hooks.
+
 Mini-task:
 Create a custom hook called useLocalStorage that manages data persistence in local storage. The hook should have functions to save and retrieve data from local storage. Use this custom hook in a simple counter application to persist the count between page reloads.
 
