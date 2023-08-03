@@ -30,6 +30,7 @@ Illustrate how this custom hook simplifies form handling in various forms across
 Develop a custom hook called useAPI for handling API calls.
 The hook should handle data fetching, loading, and error states for API requests.
 Demonstrate how this custom hook can be used in different components to fetch data from APIs.
+
 6. Best Practices and Custom Hook Patterns:
 
 Discuss best practices for creating custom hooks.
