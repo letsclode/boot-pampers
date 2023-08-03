@@ -1,0 +1,15 @@
+// useCounter.js
+import { useState } from 'react';
+
+function useCounter(initialCount) {
+  // Custom hook logic will go here
+  const [count, setCount] = useState(initialCount);
+
+  const increment = () => setCount(count + 1);
+  const decrement = () => setCount(count - 1);
+  const reset = () => setCount(initialCount);
+
+  return { count, increment, decrement, reset };
+}
+
+export default useCounter;
