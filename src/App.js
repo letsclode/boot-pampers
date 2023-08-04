@@ -5,6 +5,7 @@ import Blogs from './Blogs';
 import Layout from './Layout';
 import Signup from './SignUp';
 import Login from './Login';
+import PaginatedComponent from './PaginatedComponent';
 
 
 const App = () => {
@@ -16,6 +17,7 @@ const App = () => {
           <Route path="blogs" element={<Blogs />} />
           <Route path="auth" element={<Signup />} />
           <Route path="login" element={<Login />} />
+          <Route path="pagination" element={<PaginatedComponent />} />
         </Route>
       </Routes>
     </BrowserRouter>
