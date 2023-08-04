@@ -13,33 +13,29 @@ Lesson 3: Data Visualization
 Introduction to data visualization libraries like D3.js and Chart.js.
 Building data visualizations such as charts, graphs, and maps.
 
-Lesson 4: Authentication and User Management
-Implementing user authentication using Firebase or Auth0.
-Managing user profiles and roles.
+Lesson 4: Authentication
+Implementing user authentication using Firebase.
 
-Lesson 5: Responsive Design and Media Handling
+Lesson 5: Pagination and Infinite Scrolling
+Implementing pagination for large lists of data.
+Enhancing the user experience with infinite scrolling.
+
+Lesson 6: Responsive Design and Media Handling
 Strategies for creating responsive designs in React applications.
 Handling media, including images and videos, in responsive layouts.
 
-Lesson 6: Drag and Drop
+<!-- Lesson 6: Drag and Drop
 How to implement drag and drop functionality in React applications.
 Building a task manager or draggable list as a mini-task.
 
 Lesson 7: Social Media Sharing
 Integrating social media sharing capabilities into React applications.
-Building a reusable component for social media sharing.
+Building a reusable component for social media sharing. -->
 
-Lesson 8: Pagination and Infinite Scrolling
-Implementing pagination for large lists of data.
-Enhancing the user experience with infinite scrolling.
-
-Lesson 9: Internationalization (i18n)
+<!-- Lesson 9: Internationalization (i18n)
 Understanding the importance of internationalization in web applications.
-Implementing i18n using libraries like react-i18next.
+Implementing i18n using libraries like react-i18next. -->
 
-Lesson 10: Server-side Rendering (SSR)
+<!-- Lesson 10: Server-side Rendering (SSR)
 Exploring server-side rendering and its benefits.
-Configuring SSR for a React application using Next.js or other frameworks.
-
-
-
+Configuring SSR for a React application using Next.js or other frameworks. -->
